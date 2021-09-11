@@ -1,0 +1,16 @@
+{
+    "name": "mishuk/wp-dev-assignment",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Contracts\\": "contracts/",
+            "Scrappers\\": "scrappers/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mishuk Adhikari",
+            "email": "mishuk.ad.bd@gmail.com"
+        }
+    ]
+}
